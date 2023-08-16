@@ -1,0 +1,2 @@
+PyQt5==5.15.2
+win32printing==0.1.3
